@@ -7,14 +7,12 @@ Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros. 🖥️✨ 
 
 ## Equipo  
-
-Este capítulo es posible gracias al esfuerzo y compromiso de un equipo diverso de personas apasionadas por R y el aprendizaje colaborativo.  
-
+  
+El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
 - [Andrea Gomez Vargas](https://github.com/SoyAndrea) - organizadora
 - [Ariana Bardauil](https://github.com/ariibard) - organizadora
 - [Emanuel Ciardullo](https://github.com/ECiardullo) - colaborador
 
-Agradecemos también a la comunidad que nos inspira y motiva a seguir construyendo este espacio juntos. 💡  
 
 
 ## Eventos Anteriores  
@@ -22,7 +20,7 @@ Agradecemos también a la comunidad que nos inspira y motiva a seguir construyen
 | Fecha       | Nombre del Evento                       | Lugar                | Link                                    |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
 | 2024-12-20  | R en Red: ARcenso, Oportunidades y Comunidad | Casona Humahuaca | [Repositorio](https://github.com/renbaires/2024-12-20-welcome)|
-| 2024-12-02  | Big data, medios digitales y autogestión: cómo trabajar con millones de noticias    | UFLO         | [Repositorio]([https://github.com/renbaires/evento1](https://github.com/renbaires/2024-12-02-welcome)) |
+| 2024-12-02  | Big data, medios digitales y autogestión: cómo trabajar con millones de noticias    | UFLO         | [Repositorio](https://github.com/renbaires/2024-12-02-welcome) |
 | 2024-10-29  | R para la demografía social: un taller aplicado a la EPH      | UnLAM      | [website](https://r-unlam.netlify.app/) |
 
 
