@@ -21,6 +21,7 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
+| 2025-06-25  | Club de libro Mastering Shiny - Encuentro 8| virtual | Presentación |
 | 2025-06-24  | ¡Miércoles, Git! Manejo de errores en Git y no morir en el intento | virtual | Presentación |
 | 2025-06-11  | Club de libro Mastering Shiny - Encuentro 7| virtual | Presentación |
 | 2025-05-28  | Club de libro Mastering Shiny - Encuentro 6| virtual | [Presentación](https://rpubs.com/GraBellotti/1316283) |
