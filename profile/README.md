@@ -21,7 +21,8 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
-| 2025-07-16  | Club de libro Mastering Shiny - Encuentro 9| virtual | Presentación |
+| 2025-07-30  | Club de libro Mastering Shiny - Encuentro 10| virtual | Materiales |
+| 2025-07-16  | Club de libro Mastering Shiny - Encuentro 9| virtual | [Materiales](https://github.com/renbaires/mastering-shiny/tree/main/2025-07-16_Encuentro9) |
 | 2025-06-25  | Club de libro Mastering Shiny - Encuentro 8| virtual | [Presentación](https://jformoso.github.io/tidy-evaluation-rladiesBA/#/title-slide) |
 | 2025-06-24  | ¡Miércoles, Git! Manejo de errores en Git y no morir en el intento | virtual | Presentación |
 | 2025-06-11  | Club de libro Mastering Shiny - Encuentro 7| virtual | [Materiales](https://github.com/RLadies-BA/mastering-shiny/tree/main/2025-06-11_Encuentro7) |
