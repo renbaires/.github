@@ -21,6 +21,8 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
+| 2025-08-36  | Funciones a toda máquina: Potenciando R con funciones en C++| virtual | Presentación |
+| 2025-08-21  | Funciones en R Base: Con paciencia y mucho coraje | virtual | Presentación |
 | 2025-07-30  | Club de libro Mastering Shiny - Encuentro 10| virtual | [Repositorio](https://github.com/SoyAndrea/shiny-modules) |
 | 2025-07-16  | Club de libro Mastering Shiny - Encuentro 9| virtual | [Materiales](https://github.com/renbaires/mastering-shiny/tree/main/2025-07-16_Encuentro9) |
 | 2025-06-25  | Club de libro Mastering Shiny - Encuentro 8| virtual | [Presentación](https://jformoso.github.io/tidy-evaluation-rladiesBA/#/title-slide) |
