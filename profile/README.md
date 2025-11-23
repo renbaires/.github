@@ -15,12 +15,17 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 ## Blog - rconsortium 
 
-[R en Buenos Aires: New Generations Working to Strengthen the Community](https://r-consortium.org/posts/r-en-buenos-aires-new-generations-working-to-strengthen-the-community/) Publicado el 23 de enero de 2025
+- [R en Buenos Aires: New Generations Working to Strengthen the Community](https://r-consortium.org/posts/r-en-buenos-aires-new-generations-working-to-strengthen-the-community/) Publicado el 23 de enero de 2025
+
+- [Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires](https://r-consortium.org/posts/learning-shiny-together-a-collaborative-reading-club-around-mastering-shiny-in-buenos-aires/) Publicado el 4 de noviembre de 2025
 
 ## Eventos Anteriores  
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
+| 2025-10-09  |BrindaR - cierre 2025 | Casa Jache | Resumen proximamente |
+| 2025-11-10  | Campus Party Argentina - R en acción: webscrapping con rvest | Costa Salguero | [website taller](https://ariibard.github.io/R-enBA-webscrapping/) |
+| 2025-10-09  | RSE en español | virtual | Grabación proximamente |
 | 2025-09-30  | Procesando datos censales en R | UnLAM | [Repositorio](https://github.com/SoyAndrea/arcenso-unlam) |
 | 2025-09-27  | Nerdearla - lightning talk| CCKonex | [Presentación](https://www.youtube.com/live/Gh7DNUjx154?si=jX7jqfzHc72Rqdlk&t=2365) |
 | 2025-08-36  | Funciones a toda máquina: Potenciando R con funciones en C++| virtual | [Grabación](https://youtu.be/F1Qd1tiiieM?si=1fbG0xi3aQCDDQnt) |
