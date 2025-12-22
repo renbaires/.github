@@ -23,7 +23,7 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
-| 2025-10-09  |BrindaR - cierre 2025 | Casa Jache | Resumen proximamente |
+| 2025-10-09  |BrindaR - cierre 2025 y charla sobre empleabilidad| Casa Jache | [Repositorio](https://github.com/renbaires/2025-11-27-brindaR) |
 | 2025-11-10  | Campus Party Argentina - R en acción: webscrapping con rvest | Costa Salguero | [website taller](https://ariibard.github.io/R-enBA-webscrapping/) |
 | 2025-10-09  | RSE en español | virtual | [Grabación](https://www.youtube.com/watch?v=EYbg-Z0pgUs) |
 | 2025-09-30  | Procesando datos censales en R | UnLAM | [Repositorio](https://github.com/SoyAndrea/arcenso-unlam) |
