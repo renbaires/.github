@@ -19,10 +19,12 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 - [Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires](https://r-consortium.org/posts/learning-shiny-together-a-collaborative-reading-club-around-mastering-shiny-in-buenos-aires/) Publicado el 4 de noviembre de 2025
 
-## Eventos Anteriores  
+## Encuentros
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
+| 2026-03-19  | Armá tu CV en Positron | virtual | [Repositorio](https://github.com/renbaires/2026-03-19-welcome) |
+| 2026-03-11  | Tejiendo redes en datos: empleabilidad y perfil profesional | virtual | [Repositorio](https://github.com/renbaires/2026-03-11-empleabilidad) |
 | 2025-10-09  |BrindaR - cierre 2025 y charla sobre empleabilidad| Casa Jache | [Repositorio](https://github.com/renbaires/2025-11-27-brindaR) |
 | 2025-11-10  | Campus Party Argentina - R en acción: webscrapping con rvest | Costa Salguero | [website taller](https://ariibard.github.io/R-enBA-webscrapping/) |
 | 2025-10-09  | RSE en español | virtual | [Grabación](https://www.youtube.com/watch?v=EYbg-Z0pgUs) |
