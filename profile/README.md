@@ -6,12 +6,12 @@ Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia
 
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros. 🖥️✨ 
 
-## Equipo  
+## Equipo organizador
   
 El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
-- [Andrea Gomez Vargas](https://github.com/SoyAndrea) - organizadora
-- [Ariana Bardauil](https://github.com/ariibard) - organizadora
-- [Emanuel Ciardullo](https://github.com/ECiardullo) - colaborador
+- [Andrea Gomez Vargas](https://github.com/SoyAndrea) 
+- [Ariana Bardauil](https://github.com/ariibard) 
+- [Emanuel Ciardullo](https://github.com/ECiardullo) 
 
 ## Blog - rconsortium 
 
