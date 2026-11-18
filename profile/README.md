@@ -23,8 +23,13 @@ El corazón de **R en Buenos Aires** está en su comunidad, pero nada sería pos
 
 | Fecha       | Nombre del Evento                       | Lugar                | Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
-| 2026-03-19  | Armá tu CV en Positron | virtual | [Repositorio](https://github.com/renbaires/2026-03-19-welcome) |
-| 2026-03-11  | Tejiendo redes en datos: empleabilidad y perfil profesional | virtual | [Repositorio](https://github.com/renbaires/2026-03-11-empleabilidad) |
+| 2026-12-01 | R, IA y comunidad: ¡nos encontramos para cerrar el año! | UMET | [Reservá tu lugar](https://www.meetup.com/rbuenosaires/events/317473786/) |
+| 2026-11-17 | Deploying and sharing open source data projects on Posit Connect Cloud | Virtual | [Grabación](https://youtu.be/d4LTwjXRhd8) <br> [Repositorio](https://github.com/renbaires/2026-11-17-Posit-Connect-Cloud) |
+| 2026-09-26 | Nerdearla - lightning talk | CCKonex | Presentación |
+| 2026-08-29 | Segundo Encuentro de Comunidades Informáticas | UMET | [Nota de prensa](https://informaticos.ar/segundo-encuentro-de-comunidades-informaticas/) |
+| 2026-03-19 | Armá tu CV en Positron | virtual | [Repositorio](https://github.com/renbaires/2026-03-19-welcome) |
+| 2026-03-18 | Primer Encuentro de Comunidades Informáticas | UMET | [Nota de prensa](https://informaticos.ar/encuentro-de-comunidades-informaticas/) |
+| 2026-03-11 | Tejiendo redes en datos: empleabilidad y perfil profesional | virtual | [Repositorio](https://github.com/renbaires/2026-03-11-empleabilidad) |
 | 2025-10-09  |BrindaR - cierre 2025 y charla sobre empleabilidad| Casa Jache | [Repositorio](https://github.com/renbaires/2025-11-27-brindaR) |
 | 2025-11-10  | Campus Party Argentina - R en acción: webscrapping con rvest | Costa Salguero | [website taller](https://ariibard.github.io/R-enBA-webscrapping/) |
 | 2025-10-09  | RSE en español | virtual | [Grabación](https://www.youtube.com/watch?v=EYbg-Z0pgUs) |
